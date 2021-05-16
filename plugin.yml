@@ -1,0 +1,8 @@
+name: MailWithItem
+version: 1
+main: Tungst_mailwithitem\Main
+api: 3.0.0
+author: TungstenVn
+commands:
+ mail:
+  description: "Open mail"
